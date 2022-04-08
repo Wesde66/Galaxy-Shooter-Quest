@@ -1,2 +1,2 @@
-# Galaxy-Shooter-Quest
-Final Version of my first game.
+# Galaxy-Space-shooter-final
+Final version level 1
